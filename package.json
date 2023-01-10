@@ -1,0 +1,19 @@
+{
+  "name": "202301-w1ch2-gaston-artaza-david-botello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaston82/202301-w1ch2-gaston-artaza-david-botello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaston82/202301-w1ch2-gaston-artaza-david-botello/issues"
+  },
+  "homepage": "https://github.com/Gaston82/202301-w1ch2-gaston-artaza-david-botello#readme"
+}
